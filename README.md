@@ -27,7 +27,7 @@ Puedes ver la versión demo en vivo aquí: [Simple FAQ](https://ibrahim-003.gith
 
 1. Clonar este repositorio en tu máquina local.
    ```bash
-   git clone 
+   git clone https://github.com/Ibrahim-003/Simple-FAQ.git
    ```
 2. Asegúrate de que tienes conexión a Internet para cargar las fuentes de Google Fonts y los estilos CSS.
 3. Abre `index.html` en tu navegador para ver la página.
