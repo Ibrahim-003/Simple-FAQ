@@ -6,7 +6,7 @@ Este proyecto es una página web sencilla de preguntas frecuentes (FAQ) que prop
 
 ![Captura del Proyecto](./img/desktop-preview.png)
 
-Puedes ver la versión demo en vivo aquí: [Simple FAQ](https://ibrahim-003.github.io/Testimonial-Page/)
+Puedes ver la versión demo en vivo aquí: [Simple FAQ](https://ibrahim-003.github.io/Simple-FAQ/)
 
 ## Características
 
