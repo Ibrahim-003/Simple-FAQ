@@ -1,0 +1,72 @@
+:root {
+    --bright-royal-blue: #4E80EE;
+    --deep-midnight-blue: #030616;
+    --light-pearl-gray: #D2D5DA;
+    --soft-snow-white: #F8FAFC;
+    --pure-white: #FFFFFF;
+
+    --font-m: 1rem;
+    --font-l: 1.5rem;
+    --font-xl: 2.25rem;
+}
+
+html {
+    font-family: "Inter", sans-serif;
+    font-size: var(--font-m);
+    color: var(--deep-midnight-blue);
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--soft-snow-white);
+}
+
+.faq-main {
+    padding: 4.5rem 2rem;
+    margin: 0 auto;
+    max-width: 43.125rem;
+}
+
+.faq-header {
+    background-color: var(--pure-white);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    gap: 1rem;
+    padding: 4.5rem 2.5rem;
+}
+
+.faq-title,
+.faq-description {
+    text-align: center;
+}
+
+.faq-title {
+    font-size: var(--font-xl);
+    font-weight: 600;
+}
+
+.divider {
+    border: none;
+    height: 2px;
+    margin: 2.5rem 0;
+    background-color: var(--light-pearl-gray);
+}
+
+.faq-question {
+    font-size: var(--font-l);
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.faq-link {
+    text-decoration: none;
+    color: var(--bright-royal-blue);
+}
+
+.faq-steps,
+.faq-points {
+    margin: 1.5rem;
+    line-height: 2;
+}
