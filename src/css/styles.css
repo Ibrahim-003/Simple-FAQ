@@ -22,7 +22,7 @@ body {
 }
 
 .faq-main {
-    padding: 4.5rem 2rem;
+    padding: 4.5rem 2rem 3rem;
     margin: 0 auto;
     max-width: 43.125rem;
 }
@@ -69,4 +69,21 @@ body {
 .faq-points {
     margin: 1.5rem;
     line-height: 2;
+}
+
+/** FOOTER STYLES **/
+.footer {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: var(--dark-gray);
+}
+
+.footer-link:hover {
+    color: rgb(51, 113, 227);
 }

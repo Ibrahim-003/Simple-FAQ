@@ -1,10 +1,11 @@
 # Simple FAQ Page
 
+## Descripción
 Este proyecto es una página web sencilla de preguntas frecuentes (FAQ) que proporciona respuestas a preguntas comunes sobre el seguimiento de pedidos y la política de devoluciones.
 
 ## Vista Previa
 
-![Captura del Proyecto](./img/desktop-preview.png)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Simple FAQ](https://ibrahim-003.github.io/Simple-FAQ/)
 
@@ -43,6 +44,5 @@ La página se puede personalizar fácilmente agregando más secciones de pregunt
 - CSS3
 - Google Fonts
 
-## Autor
-
-Este proyecto fue creado por [Ibrahim Almeyda].
+## Autor 👨‍💻
+Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
